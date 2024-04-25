@@ -193,7 +193,7 @@ This section is also pretty low effort but I wanted to explicitly dog whistle a 
 
 This is me! Just a guy compelled to refactor multiscale human coordination by making woo compatible with modern ontologies and injecting it into society in a span of ~5 years.
 
-A few challenges and risks might be in balancing the ambitious and potentially grandiose nature of this project with the need for a manageable scope, as well as lack of experience leading large-scale research efforts. (lol)
+A few challenges and risks might be in balancing the ambitious and potentially grandiose nature of this project with the need for a manageable scope, as well as lack of experience leading large-scale research efforts. With regard to the ambition of it, I’d say I’m shooting high while trying to stay grounded in pragmatism and criticism from others. The lack of experience leading research may be addressed by taking baby steps and focusing on sub-projects, while keeping an eye on potential advisors that could help me develop.
 
 Anyway here are a few take-aways from the whole thing!
 
